@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/FrasesAleatorias/static/js/main.fd32ca3d.chunk.js",
+    "main.js.map": "/FrasesAleatorias/static/js/main.fd32ca3d.chunk.js.map",
+    "runtime-main.js": "/FrasesAleatorias/static/js/runtime-main.005200d5.js",
+    "runtime-main.js.map": "/FrasesAleatorias/static/js/runtime-main.005200d5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/FrasesAleatorias/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e4ae01d4.chunk.js": "/FrasesAleatorias/static/js/2.e4ae01d4.chunk.js",
+    "static/js/2.e4ae01d4.chunk.js.map": "/FrasesAleatorias/static/js/2.e4ae01d4.chunk.js.map",
+    "index.html": "/FrasesAleatorias/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/FrasesAleatorias/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.e4ae01d4.chunk.js.LICENSE.txt": "/FrasesAleatorias/static/js/2.e4ae01d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.005200d5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e4ae01d4.chunk.js",
+    "static/js/main.fd32ca3d.chunk.js"
+  ]
+}
